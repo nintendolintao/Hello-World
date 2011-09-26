@@ -6,4 +6,8 @@ public class HelloPrinter {
         System.out.println("Hello World");
     }
 
+    public static void printHelloTony() {
+        System.out.println("Hello Tony");
+    }
+
 }
