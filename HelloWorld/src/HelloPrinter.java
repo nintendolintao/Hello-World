@@ -14,4 +14,8 @@ public class HelloPrinter {
         System.out.println("Hello Tim");
     }
 
+    public static void printHelloOscar() {
+        System.out.println("Hello Oscar");
+    }
+
 }
