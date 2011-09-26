@@ -11,6 +11,8 @@ public class HelloWorld {
         HelloPrinter.printHelloTony();
         HelloPrinter.printHelloTim();
         HelloPrinter.printHelloOscar();
+
+        System.out.println("Hello Remote!");
     }
 
 }
