@@ -10,4 +10,8 @@ public class HelloPrinter {
         System.out.println("Hello Tony");
     }
 
+    public static void printHelloTim() {
+        System.out.println("Hello Tim");
+    }
+
 }
