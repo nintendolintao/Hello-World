@@ -10,7 +10,7 @@ public class HelloWorld {
         HelloPrinter.printHelloWorld();
 
         System.out.println("Hello Tony 123 !");
-        System.out.println("Hello Tony 456 !");
+        //System.out.println("Hello Tony 456 !");
         System.out.println("Hello Tony 789 !");
     }
 
