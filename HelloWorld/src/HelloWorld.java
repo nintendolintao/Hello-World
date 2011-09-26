@@ -12,7 +12,8 @@ public class HelloWorld {
         HelloPrinter.printHelloTim();
         HelloPrinter.printHelloOscar();
 
-        System.out.println("Hello Remote!");
+        System.out.println("Hello Remote 1!");
+        System.out.println("Hello Remote 2!");
     }
 
 }
